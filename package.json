@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  },
+  "name": "cyf-node-challenges",
+  "description": "Node Challanges created for Students at CodeYourFuture.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon challenge-chat-server/server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeYourFuture/cyf-node-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeYourFuture/cyf-node-challenges/issues"
+  },
+  "homepage": "https://github.com/CodeYourFuture/cyf-node-challenges#readme"
+}
